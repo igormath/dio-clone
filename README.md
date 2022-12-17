@@ -4,7 +4,7 @@ Repositório criado para comportar um dos projetos do bootcamp **Orange Tech +**
 
 Aqui o desafio foi copiar as páginas de Home, Login, Cadastro e Home do usuário, semelhantes as da DIO. Referências disponíveis no [Figma](https://www.figma.com/file/fvjQQNtqaUdpuNixvCZVav/DIO-CLONE?node-id=0%3A1&t=uzwk0qsUYCATTETw-0)
 
-Bibliotecas utilizadas:
+## Bibliotecas utilizadas:
 - [React](https://pt-br.reactjs.org/)
 - [Styled-Components](https://styled-components.com/)
 - [React Router Dom](https://reactrouter.com/en/main)
